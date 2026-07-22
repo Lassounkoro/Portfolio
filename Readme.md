@@ -19,3 +19,5 @@
     Data Viz : dashboards interactifs, graphiques exploratoires
     Machine Learning : régression, preprocessing, sklearn
     Outils : Power BI, Looker Studio, GitHub, Excel, Big Query, Google Cloud platform
+
+Dans ce projet **C:\Users\Lassounkoro\OneDrive\Portfolio\Projets\world_happiness_report.ipynb**, j'ai analysé les données du World Happiness Report pour identifier les facteurs qui influencent le bonheur des pays. J'ai utilisé Python pour nettoyer et explorer les données, puis j'ai créé des visualisations pour présenter mes résultats.
