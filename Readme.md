@@ -29,5 +29,6 @@ J'ai analysé les données du World Happiness Report pour identifier les facteur
 ## PROJET | Arrache ton job in tech
 
 [C:\Users\Lassounkoro\OneDrive\Portfolio\Projets\données\Demoday - AR'H -7_22_2026, 2_08 PM.mp4](https://www.youtube.com/watch?v=eSE1HOPKQrQ)
+
 Dans ce lien, vous pouvez visionner un montage video de la présentation de notre projet de fin de bootcamp avec mes collègues.
 Appréciez et n'hésitez pas à laisser un pouce bleu ;)
