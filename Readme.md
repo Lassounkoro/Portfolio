@@ -20,8 +20,14 @@
     Machine Learning : régression, preprocessing, sklearn
     Outils : Power BI, Looker Studio, GitHub, Excel, Big Query, Google Cloud platform
 
-## PROJET #1
+## PROJET | World Happiness Report 
 
 [C:\Users\Lassounkoro\OneDrive\Portfolio\Projets\world_happiness_report.ipynb](https://github.com/Lassounkoro/Portfolio/blob/main/Projets/world_happiness_report.ipynb)
 
 J'ai analysé les données du World Happiness Report pour identifier les facteurs qui influencent le bonheur des pays. J'ai utilisé Python pour nettoyer et explorer les données, puis j'ai créé des visualisations pour présenter mes résultats.
+
+## PROJET | Arrache ton job in tech
+
+[C:\Users\Lassounkoro\OneDrive\Portfolio\Projets\données\Demoday - AR'H -7_22_2026, 2_08 PM.mp4](https://www.youtube.com/watch?v=eSE1HOPKQrQ)
+Dans ce lien, vous pouvez visionner un montage video de la présentation de notre projet de fin de bootcamp avec mes collègues.
+Appréciez et n'hésitez pas à laisser un pouce bleu ;)
