@@ -18,4 +18,4 @@
     SQL : requêtes avancées, CTE, window functions, optimisation
     Data Viz : dashboards interactifs, graphiques exploratoires
     Machine Learning : régression, preprocessing, sklearn
-    Outils : Power BI, Looker Studio, GitHub, Excel, Big Query, Google Cloud platform   
+    Outils : Power BI, Looker Studio, GitHub, Excel, Big Query, Google Cloud platform
