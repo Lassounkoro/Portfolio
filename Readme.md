@@ -8,7 +8,8 @@
     
 ## Qui suis-je ? : 
     Lassounkoro Ibrahim Silué
-    10 ans d’expérience dans la finance/comptabilité, avec une vraie expertise data : nettoyage, analyse, enrichissement et visualisation de l’information.
+    10 ans d’expérience dans la finance/comptabilité, 
+    Avec une vraie expertise data : nettoyage, analyse, enrichissement et visualisation de l’information.
     Maitrise de Python, SQL, Power BI.
     Capacité à optimiser les processus et produire des insights utiles pour la prise de décision
 
